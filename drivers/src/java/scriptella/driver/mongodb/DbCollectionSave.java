@@ -2,7 +2,6 @@ package scriptella.driver.mongodb;
 
 import com.mongodb.DBCursor;
 import com.mongodb.DBObject;
-import scriptella.driver.mongodb.MongoBridge;
 
 import java.util.List;
 

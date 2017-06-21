@@ -3,7 +3,6 @@ package scriptella.driver.mongodb;
 import com.mongodb.DBCursor;
 import com.mongodb.DBObject;
 import org.bson.types.BasicBSONList;
-import scriptella.driver.mongodb.MongoBridge;
 
 import java.util.ArrayList;
 import java.util.List;

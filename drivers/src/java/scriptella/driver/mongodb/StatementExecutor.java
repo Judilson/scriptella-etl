@@ -2,9 +2,6 @@ package scriptella.driver.mongodb;
 
 import com.mongodb.DBCursor;
 import com.mongodb.DBObject;
-import scriptella.driver.mongodb.MongoDbProviderException;
-import scriptella.driver.mongodb.MongoBridge;
-import scriptella.driver.mongodb.MongoOperation;
 import scriptella.spi.ParametersCallback;
 import scriptella.spi.QueryCallback;
 import scriptella.spi.Resource;

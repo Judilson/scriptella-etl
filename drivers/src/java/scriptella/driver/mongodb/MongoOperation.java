@@ -5,7 +5,6 @@ import com.mongodb.BasicDBObject;
 import com.mongodb.DBCursor;
 import com.mongodb.DBObject;
 import org.bson.BSONObject;
-import scriptella.driver.mongodb.MongoBridge;
 
 import java.util.Arrays;
 import java.util.Collections;

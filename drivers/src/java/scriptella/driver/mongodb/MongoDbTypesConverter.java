@@ -1,6 +1,5 @@
 package scriptella.driver.mongodb;
 
-import scriptella.driver.mongodb.MongoDbProviderException;
 import scriptella.util.IOUtils;
 
 import java.io.IOException;
