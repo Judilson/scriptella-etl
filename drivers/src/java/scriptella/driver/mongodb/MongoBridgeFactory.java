@@ -2,7 +2,6 @@ package scriptella.driver.mongodb;
 
 import com.mongodb.MongoClient;
 import com.mongodb.MongoClientURI;
-import scriptella.driver.mongodb.bridge.MongoBridgeImpl;
 import scriptella.spi.ConnectionParameters;
 import scriptella.util.StringUtils;
 

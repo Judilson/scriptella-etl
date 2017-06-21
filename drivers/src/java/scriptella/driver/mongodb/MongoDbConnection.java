@@ -1,6 +1,5 @@
 package scriptella.driver.mongodb;
 
-import scriptella.driver.mongodb.statement.StatementExecutor;
 import scriptella.spi.*;
 
 /**
