@@ -1,2 +1,5 @@
 /core/target/
 /tools/target/
+/drivers/target/
+/target/
+/scriptella/target/
